@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**eltrompazo/eltrompazo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 👋 Hi, I'm @eltrompazo
 👀 I'm interested in cybersecurity 
 🌱 I'm currently learning as a self-taught in Cybersecurity 
@@ -18,4 +13,3 @@ Hola , si deseas contactarme, puedes encontrarme por telegram (t.me/eltrom_pazo)
 Fines de semana son dedicados a mi familia.
 
 Saludos Eltrom_pazo
--->
